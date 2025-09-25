@@ -27,3 +27,21 @@ code {
   text-decoration: none;
   margin-right: 3%;
 }
+#supportHero{
+  background-color: rgb(56,126,209);
+  color: white;
+}
+#supportHero a{
+  color: white;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10%;
+}
+#supportHero input{
+  padding:20px 50px;
+  font-size: 1.2em;
+  border-radius: 10px;
+  border: none;
+}
